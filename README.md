@@ -2,7 +2,7 @@
 
 1. Time Series Classification Using Multi-Channels Deep Convolutional(MCDCNN_implementation.ipynb)
     - Authors: Yi Zheng1, Qi Liu, Enhong Chen, Yong Ge, and J. Leon Zhao
-    - DeepLearning Framework: Pytorch
+    - Deep Learning Framework: Pytorch
     - Date: December 2020
 
 ## Data Sources
