@@ -5,3 +5,4 @@
     - Data Source: http://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring
 
 2. UNet on Pascal VOC
+3. English to French Neural Machine Translation
